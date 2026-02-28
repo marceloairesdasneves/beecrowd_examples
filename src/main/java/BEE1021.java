@@ -47,6 +47,6 @@ public class BEE1021 {
         System.out.println(moedas10 + " moeda(s) de R$ 0.10");
         System.out.println(moedas5 + " moeda(s) de R$ 0.05");
         System.out.println(moedas1cent + " moeda(s) de R$ 0.01");
-        sc.close();
+        scanner.close();
     }
 }
